@@ -3,4 +3,4 @@ This is the Initial Version (v1.0) of my portfolio. Currently thinking toward v2
 Languages used: html / css (basic html) + (intermideate / advanced css ) No frameworks
 To run: Clone the Code or Download .zip the repository and open index.html on your browser. 
 Didn't use AI 
-
+All links work right now correctly! 
